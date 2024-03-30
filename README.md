@@ -2,9 +2,7 @@
 
 ## Instructions
 
-1. Click the Windows key on your keyboard, type cmd and run it as administrator. It will prompt a window asking for permission, click yes.
-
-   ![Windows Key](https://github.com/DxDyZ5/HowToUseC-FromCMDWin10/assets/122232315/f17bc3b8-69fd-48f8-9d4c-71ae3aaf1084)
+1. Click the Windows key   ![Windows Key](https://github.com/DxDyZ5/HowToUseC-FromCMDWin10/assets/122232315/f17bc3b8-69fd-48f8-9d4c-71ae3aaf1084)  on your keyboard, type cmd and run it as administrator. It will prompt a window asking for permission, click yes.
 
 2. Navigate out of system32 by typing `cd` and the desired path, e.g., `C:\Users\manue\OneDrive\Escritorio`.
 
