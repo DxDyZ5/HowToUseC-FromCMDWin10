@@ -39,7 +39,7 @@ This invokes the csc compiler with its full path and compiles the file.
 ![image](https://github.com/DxDyZ5/HowToUseC-FromCMDWin10/assets/122232315/b587e454-4487-426d-9b02-048bec016a98)
 
 
-# if we don't want to use the full path everytime
+# If we don't want to use the full path everytime
 
 ## Instructions
 
