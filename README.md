@@ -30,7 +30,7 @@ Save the file (Ctrl + S) and close it (Alt + F4).
 5. Compile the C# file by typing:
 
 `C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc C#FromCMD.cs` (note that this 
-path could vary depending on the .NET framework version installed)
+path could vary depending on the .NET framework version installed).
 
 This invokes the csc compiler with its full path and compiles the file.
 
@@ -48,3 +48,5 @@ This invokes the csc compiler with its full path and compiles the file.
 3.  Another window will emerge, go to the section `System variables`, scroll down, click once on `Path` variable and click on `Edit...`.
 4.  To conclude, type the path `C:\Windows\Microsoft.NET\Framework\v4.0.30319` (note that this 
 path could vary depending on the .NET framework version installed). 
+
+-MATT
